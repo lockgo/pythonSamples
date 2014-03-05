@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "diffie", "diffie\diffie.pyproj", "{FCAC2DFF-C0A2-4F2D-8982-8CA803746919}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCAC2DFF-C0A2-4F2D-8982-8CA803746919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAC2DFF-C0A2-4F2D-8982-8CA803746919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAC2DFF-C0A2-4F2D-8982-8CA803746919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCAC2DFF-C0A2-4F2D-8982-8CA803746919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
